@@ -1,0 +1,11 @@
+{
+  "name": "Artillery-Research-Overhaul",
+  "version": "0.0.1",
+  "factorio_version": "2.0",
+  "title": "Artillery Research Overhaul",
+  "author": "DWolf",
+  "contact": "drewwbutler@gmail.com",
+  "homepage": "",
+  "description": "Makes Artillery Shell Damage Scale with Physical Projectile Damage Research. Starting at Phisical Projectile Damage 7.",
+  "dependencies": ["base >= 2.0.0", "DWolfs-Lib >= 0.0.1"]
+}
